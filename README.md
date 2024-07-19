@@ -60,19 +60,6 @@ https://storemoreselfstorage.net/ - Wordpress, HTML, CSS, JS, PHP
 ![image](https://github.com/kotcher1/projects/assets/43149448/67c3b0e3-72de-4da6-81a1-d498587f7b91)
 
 
-### Для компании Digitalizm
-
-https://xn--l1adbbf.xn--80aaahcb.xn--p1ai/- HTML, CSS, React, параллакс, CSS-анимация
-
-![image](https://github.com/kotcher1/projects/assets/43149448/ffdc3a59-ec33-4a2f-9fd2-42e7bfe47cf6)
-
-
-
-https://robobill.ru/ - для этого сайта для главной страницы делала блоки "Почему бренды выбирают Robobill", "Выберите план", полностью делала страницу "О нас", "Для агентств" - React, Html, SASS
-
-![image](https://github.com/kotcher1/projects/assets/43149448/32699e70-d9ba-4c14-ba75-5711bfa31e68)
-
-
 
 
 
