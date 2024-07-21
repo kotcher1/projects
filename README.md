@@ -2,6 +2,15 @@
 
 Примеры проектов с закрытым кодом.
 
+
+### Для компании PIX Robotics
+
+https://pix.ru/events/vebinary/online-hackathon-bi-2/ - HTML, CSS, jQuery
+
+![image](https://github.com/user-attachments/assets/757dfac3-e586-4720-a03e-6a5929f96c5e)
+
+
+
 ### Для компании Maxline
 
 https://promo.maxline.by/marathon/ - React, CSS, SASS, HTML, прием и отправка информации из Google таблиц, таймер начала и окончания для событий
@@ -9,9 +18,9 @@ https://promo.maxline.by/marathon/ - React, CSS, SASS, HTML, прием и от�
 ![image](https://github.com/kotcher1/projects/assets/43149448/986faaaf-960e-4ced-bb78-5b7d2117a28e)
 
 
-https://promo.maxline.by/fb_ti/ - Vue3, SCSS, HTML
+https://promo.maxline.by/222fs_13/ - Vue3, SCSS, HTML, CSS-анимации
 
-![image](https://github.com/kotcher1/projects/assets/43149448/277fb866-17f6-4665-89a9-6c5e172bd878)
+![image](https://github.com/user-attachments/assets/5873a957-41b9-48f0-9384-66063e1c01ab)
 
 
 https://promo.maxline.by/fb_fwc_group/ -  Vue3, SCSS, HTML
@@ -29,17 +38,6 @@ https://promo.maxline.by/fb_60munutd/ - Vue3, SCSS, HTML, CSS-анимации
 ![image](https://github.com/kotcher1/projects/assets/43149448/6483ae1e-599b-47c1-bdf1-7fecc083893a)
 
 
-https://promo.maxline.by/50fs50byn_bonanza/ - Vue3, SCSS, HTML, CSS-анимации
-
-![image](https://github.com/kotcher1/projects/assets/43149448/b1f20ce1-a528-4123-9f78-a76764c05e3f)
-
-
-### Betrating
-
-https://br-ochre.vercel.app/ - React, SASS, HTML
-
-![image](https://github.com/kotcher1/projects/assets/43149448/c6c9e0c2-251f-43aa-898c-87968367a828)
-
 
 ### Siberian
 
@@ -48,16 +46,12 @@ https://ddexpo.siberian.pro/ - React, SASS, HTML, Ajax, CSS-анимации, а
 ![image](https://github.com/kotcher1/projects/assets/43149448/e5f57390-0678-43c1-873f-968df9cd58bf)
 
 
+
 ### Для компании Invacont
 
 http://threebusybees.com/ - Wordpress, HTML, CSS, JS, PHP
 
 ![image](https://github.com/kotcher1/projects/assets/43149448/79391af7-b63b-4918-a95f-94b9bf8e4bb9)
-
-
-https://storemoreselfstorage.net/ - Wordpress, HTML, CSS, JS, PHP
-
-![image](https://github.com/kotcher1/projects/assets/43149448/67c3b0e3-72de-4da6-81a1-d498587f7b91)
 
 
 
